@@ -1,4 +1,6 @@
-> Thank you for purchasing our template 🥂
+> This repo contains vuexy admin v9.5.0 version.
+> Because some directories is too large, so aspnet-core, design-files, html-laravel-version, html-version is deleted.
+> For the full version, please see the release.
 
 # Vuexy - Vuejs, React, Angular, HTML & Laravel Admin Dashboard Template
 
